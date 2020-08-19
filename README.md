@@ -27,7 +27,7 @@ Link  - [Data_Warehouse](https://github.com/san089/Udacity-Data-Engineering-Proj
 ## Project 4: Data Lake
 In this project, we will build a Data Lake on AWS cloud using Spark and AWS EMR cluster. The data lake will serve as a Single Source of Truth for the Analytics Platform. We will write spark jobs to perform ELT operations that picks data from landing zone on S3 and transform and stores data on the S3 processed zone.
 
-Link: [Data_Lake](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Lake)
+Link:  [Data_Lake](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Lake)
 
 ## Project 5: Data Pipelines with Airflow
 In this project, we will orchestrate our Data Pipeline workflow using an open-source Apache project called Apache Airflow. We will schedule our ETL jobs in Airflow, create project related custom plugins and operators and automate the pipeline execution. 
