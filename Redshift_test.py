@@ -1,7 +1,7 @@
 import  psycopg2
 import configparser
 
-# Loading cluster configurations from cluster.config
+## Loading cluster configurations from cluster.config
 config = configparser.ConfigParser()
 config.read_file(open('cluster.config'))
 
